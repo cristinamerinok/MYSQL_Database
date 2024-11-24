@@ -16,8 +16,8 @@ o para trabajadores del sector gastronómico
 Tablas principales:
 · Ingredientes: Información de ingredientes (nombre, sabor, presencia de alérgenos).
 · Comidas: Registro de platos, incluyendo su tipo, descripción y origen.
-· Comida_Ingredientes: Relación entre comidas y sus ingredientes.
 · Alergenos: Lista de posibles alérgenos alimenticios.
+· Comida_Ingredientes: Relación entre comidas y sus ingredientes.
 · Ingrediente_Alergenos: Relación entre ingredientes y alérgenos.
 
 
@@ -125,8 +125,8 @@ or to specialists in the gastronomy sector.
 Main tables:
 · Ingredientes: Information on ingredients (name, flavour, presence of allergens).
 · Comidas: Record of dishes, including their type, description and origin.
-· Comida_ingredientes: Relationship between foods and their ingredients.
 · Alergenos: List of possible food allergens.
+· Comida_ingredientes: Relationship between foods and their ingredients.
 · Ingrediente_Alergenos: Relationship between ingredients and allergens.
 
 3. DEPENDENCIES BETWEEN TABLES
